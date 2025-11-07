@@ -17,9 +17,7 @@ It identifies and redacts **names, dates, fees, emails, and phone numbers**, whi
 - 📊 Console summary of all redactions performed
 - 💡 Simple CLI: works by drag-and-dropping a file into your terminal
 
-[![Run NDA Redactor](https://img.shields.io/badge/Run%20Demo-NOW-brightgreen?style=for-the-badge&logo=python)](https://github.com/codespaces/new?repo=n0tserp/NDA-Redactor&ref=main&machine=basicLinux)
-
-Click above → GitHub boots a free Linux box → run `python nda_redactor.py your_file.docx` and watch it fly!
+[![Try it FREE ⚡](https://img.shields.io/badge/Try%20it%20FREE%20in%20browser-00bf63?style=for-the-badge&logo=github)](https://git.new/n0tserp/NDA-Redactor)
 ---
 
 ## 🧰 Requirements
